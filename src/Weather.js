@@ -136,6 +136,7 @@ const Weather = (props) => {
         />
         {form}
         {message && <h2>{message}</h2>}{" "}
+        
       </div>
     );
   }

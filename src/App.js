@@ -6,7 +6,8 @@ export default function App() {
     <div className="App">
       <Weather city="Brasília" />
 
-      This project was coded by  <a href="https://github.com/Emili-Santana">Emili Santana</a> and is open-sourced on GitHub and hosted on Netlify
-    </div>
+      <p>This project was coded by  <a href="https://github.com/Emili-Santana">Emili Santana</a> and is open-sourced on <a href="https://github.com/Emili-Santana/Homework-Week-04">Github</a> and hosted on  <a href="https://github.com/Emili-Santana">Netlify </a>
+      </p>
+   </div>
   );
 }

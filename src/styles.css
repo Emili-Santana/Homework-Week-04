@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #79c2d0;
+  max-width: 600px;
+  border-radius: 6px;
+  margin: 25px auto;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-input {
+  background-color: #bbe4e9;
+  border: none;
+  border-radius: 6px;
+  width: 60%;
+  font-size: 16px;
+  padding: 15px 20px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.button {
+  background: #53a8b6;
+  padding: 15px 30px;
+  border: none;
+  font-size: 16px;
+  margin-left: 5px;
+  border-radius: 6px;
+  color: white;
+}
+
+li {
+  padding: 10px;
+  list-style-type: none;
+}
+.icon {
+  text-align: end;
+}
